@@ -1,3 +1,3 @@
 # 3d Анимация с помощью CSS3.
 
-![alt text](animation.gif)
+![alt text](img/git_animation/animation.gif)
